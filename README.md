@@ -5,7 +5,6 @@ This Streamlit-powered web application uses anomaly detection techniques and Dee
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue" />
   <img src="https://img.shields.io/badge/Streamlit-1.x-brightgreen" />
-  <img src="https://img.shields.io/badge/Gemini%20API-integrated-orange" />
 </div>
 
 ---
