@@ -1,4 +1,4 @@
-﻿# 💰 AI-Based Financial Fraud Detection Web App
+﻿# 💰 AI-Based Financial Fraud Detection
 
 This Streamlit-powered web application uses anomaly detection techniques and DeepSeek's **DeepSeek AI** to help users analyze financial transactions and detect potential fraudulent activity.
 
@@ -75,7 +75,7 @@ cd ai-fraud-detector
 pip install -r [requirements.txt](http://_vscodecontentref_/2)
 ```
 
-### 3. Set Gemini API Key
+### 3. Set DeepDeek API Key
 Create a .env file in the root directory:
 ```
 DeepSeek_API_KEY=your_api_key_here
